@@ -1,5 +1,5 @@
   {
     "ads": "on",
     "max_interstitial_interval": 2,
-    "mode_second_ad": "banner"
+    "mode_second_ad": "native"
   }
