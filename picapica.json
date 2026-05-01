@@ -1,0 +1,5 @@
+  {
+    "ads": "on",
+    "max_interstitial_interval": 3,
+    "mode_second_ad": "native"
+  }
