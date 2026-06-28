@@ -1,0 +1,8 @@
+{
+  "ads": "on",
+  "interval_interstitial": 4,
+  "open_ads": "on",
+  "banner_id": "ca-app-pub-XXXX/XXXX",
+  "interstitial_id": "ca-app-pub-XXXX/XXXX",
+  "app_open_id": "ca-app-pub-XXXX/XXXX"
+}
