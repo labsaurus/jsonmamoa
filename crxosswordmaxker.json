@@ -1,4 +1,4 @@
-        {
+{
           "ads": "off",
           "interval_interstitial": 4,
           "open_ads": "on",
@@ -6,4 +6,4 @@
           "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
           "app_open_id": "ca-app-pub-3940256099942544/9257395921",
           "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
-        }
+}
