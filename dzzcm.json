@@ -1,6 +1,6 @@
 {
-  "ads": "on",
+  "ads": "off",
   "open_ads": "on",
-  "interstitial_interval": 3,
+  "interstitial_interval": 10,
   "max_native": 2
 }
