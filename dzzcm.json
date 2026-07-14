@@ -1,5 +1,6 @@
 {
   "ads": "on",
+  "open_ads": "on",
   "max_inter": 2,
-  "max_native":2
+  "max_native": 2
 }
