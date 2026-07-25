@@ -1,7 +1,7 @@
 {
   "ads": "on",
   "open_ads": "on",
-  "interstitial_interval": 4,
+  "interstitial_interval": 7,
   "max_inter": 2,
   "max_native": 2
 }
