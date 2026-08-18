@@ -1,15 +1,22 @@
 {
   "enabled": true,
-  "useTestUnits": true,
-  "banner": { "enabled": true, "unitId": "" },
+  "useTestUnits": false,
+  "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
   "interstitial": {
     "enabled": true,
-    "unitId": "",
+    "unitId": "ca-app-pub-5471610698120881/3089015536",
     "intervalSeconds": 120,
     "skipFirstLaunches": 1
   },
-  "rewarded": { "enabled": true, "unitId": "", "coinReward": 40 },
-  "appOpen": { "enabled": false, "unitId": "" },
+  "rewarded": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/5366181742",
+    "coinReward": 40
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/6679263410"
+  },
   "redirect": {
     "enabled": false,
     "title": "UPDATE DIPERLUKAN",
