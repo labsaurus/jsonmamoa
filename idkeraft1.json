@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "useTestUnits": true,
+  "banner": { "enabled": true, "unitId": "" },
+  "interstitial": {
+    "enabled": true,
+    "unitId": "",
+    "intervalSeconds": 120,
+    "skipFirstLaunches": 1
+  },
+  "rewarded": { "enabled": true, "unitId": "", "coinReward": 40 },
+  "appOpen": { "enabled": false, "unitId": "" },
+  "redirect": {
+    "enabled": false,
+    "title": "UPDATE DIPERLUKAN",
+    "message": "Aplikasi ini sudah tidak tersedia di Play Store. Download ulang versi baru untuk lanjut bermain.",
+    "button": "DOWNLOAD",
+    "playStoreUrl": ""
+  }
+}
