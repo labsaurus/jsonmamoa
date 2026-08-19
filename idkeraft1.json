@@ -3,7 +3,7 @@
   "useTestUnits": false,
   "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "unitId": "ca-app-pub-5471610698120881/3089015536",
     "intervalSeconds": 120,
     "skipFirstLaunches": 1
