@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "useTestUnits": false,
   "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
   "interstitial": {
