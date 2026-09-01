@@ -1,0 +1,24 @@
+{
+  "ads": "on",
+  "open_ads": "on",
+  "banner": "on",
+  "interstitial_interval": 3,
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "units": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "open": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "banner": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "migration": {
+    "enabled": "off",
+    "title": "Days Cam has moved",
+    "message": "This version is no longer updated. Install Days Cam – Daily Vintage Camera on Google Play to keep getting updates and new cameras.",
+    "button_label": "Get the new app",
+    "dismiss_label": "Not now",
+    "package_id": "com.dayscam.dailyvintage",
+    "play_store_url": "",
+    "dismissible": true,
+    "show_once_per_session": true
+  }
+}
