@@ -1,4 +1,18 @@
 {
   "ads": "on",
-  "max_inter": 2
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "max_inter": 2,
+  "inter_window_minutes": 2,
+  "interstitial": {
+    "enabled": "on",
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "native": {
+    "enabled": "on",
+    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "app_open": {
+    "enabled": "on",
+    "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+  }
 }
