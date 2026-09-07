@@ -1,18 +1,18 @@
 {
   "ads": "on",
-  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "app_id": "ca-app-pub-1547180597887918~1638699466",
   "max_inter": 2,
   "inter_window_minutes": 2,
   "interstitial": {
     "enabled": "on",
-    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+    "ad_unit_id": "ca-app-pub-1547180597887918/3169227384"
   },
   "native": {
     "enabled": "on",
-    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+    "ad_unit_id": "ca-app-pub-1547180597887918/9083899049"
   },
   "app_open": {
     "enabled": "on",
-    "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+    "ad_unit_id": "ca-app-pub-1547180597887918/4447966688"
   }
 }
