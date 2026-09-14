@@ -1,21 +1,21 @@
 {
-  "enabled": false,
+  "enabled": true,
   "useTestUnits": false,
-  "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
+  "banner": { "enabled": true, "unitId": "ca-app-pub-6874494293466161/3447896159" },
   "interstitial": {
     "enabled": false,
-    "unitId": "ca-app-pub-5471610698120881/3089015536",
+    "unitId": "ca-app-pub-6874494293466161/9225846769",
     "intervalSeconds": 120,
     "skipFirstLaunches": 1
   },
   "rewarded": {
     "enabled": true,
-    "unitId": "ca-app-pub-5471610698120881/5366181742",
+    "unitId": "ca-app-pub-6874494293466161/5370362236",
     "coinReward": 40
   },
   "appOpen": {
     "enabled": true,
-    "unitId": "ca-app-pub-5471610698120881/6679263410"
+    "unitId": "ca-app-pub-6874494293466161/2419202164"
   },
   "redirect": {
     "enabled": false,
