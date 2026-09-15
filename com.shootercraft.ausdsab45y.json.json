@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "mode": "production",
+  "useTestAds": true,
+  "comment": "Fallback di dalam app jika JSON eksternal error/timeout. Isi sama seperti ads-config.json remote.",
+  "appId": "ca-app-pub-3940256099942544~3347511713",
+  "units": {
+    "appOpen": "ca-app-pub-3940256099942544/9257395921",
+    "banner": "ca-app-pub-3940256099942544/9214589741",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "testUnits": {
+    "appOpen": "ca-app-pub-3940256099942544/9257395921",
+    "banner": "ca-app-pub-3940256099942544/9214589741",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "placements": {
+    "appOpen": {
+      "enabled": true,
+      "skipFirstLaunch": true,
+      "minIntervalSec": 240
+    },
+    "banner": {
+      "enabled": false,
+      "screens": []
+    },
+    "interstitial": {
+      "enabled": true,
+      "afterMatch": true,
+      "minIntervalSec": 90
+    },
+    "rewarded": {
+      "enabled": true
+    }
+  },
+  "appMoved": {
+    "enabled": false,
+    "title": "This App Has Moved",
+    "message": "Shooter Craft - Armageddon is no longer available on this listing. Download the new version from the Play Store to keep playing with the latest updates and content.",
+    "buttonLabel": "Download on Play Store",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.shootercraft.battleblocks"
+  }
+}
