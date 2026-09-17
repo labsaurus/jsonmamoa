@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "enabled": true,
+  "mode": "production",
+  "useGoogleTestUnits": true,
+  "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+  "intensity": "medium",
+  "units": {
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "appOpen": "ca-app-pub-3940256099942544/9257395921"
+  },
+  "placements": {
+    "rewardedContinue": true,
+    "rewardedBoost": true,
+    "rewardedRefill": true,
+    "interstitialOnHome": true,
+    "interstitialOnQuitRun": true,
+    "appOpenColdStart": true,
+    "appOpenOnResume": true
+  },
+  "frequency": {
+    "interstitialMinIntervalSec": 90,
+    "interstitialMaxPerSession": 5,
+    "interstitialMinExitsBeforeShow": 2,
+    "appOpenMinIntervalSec": 240,
+    "appOpenColdStartDelaySec": 3,
+    "noInterstitialAfterRewardedSec": 45,
+    "noAppOpenAfterFullscreenSec": 30
+  },
+  "_comment": "Host this file at REMOTE_ADS_URL. ..."
+}
