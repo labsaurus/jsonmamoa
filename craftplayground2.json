@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": true,
+  "enabled": false,
   "mode": "production",
   "useGoogleTestUnits": true,
   "androidAppId": "ca-app-pub-3940256099942544~3347511713",
