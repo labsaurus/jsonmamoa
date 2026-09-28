@@ -1,14 +1,14 @@
 {
   "version": 1,
   "mode": "production",
-  "useTestAds": true,
+  "useTestAds": false,
   "comment": "Fallback di dalam app jika JSON eksternal error/timeout. Isi sama seperti ads-config.json remote.",
-  "appId": "ca-app-pub-3940256099942544~3347511713",
+  "appId": "ca-app-pub-6874494293466161~7345735957",
   "units": {
-    "appOpen": "ca-app-pub-3940256099942544/9257395921",
-    "banner": "ca-app-pub-3940256099942544/9214589741",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+    "appOpen": "ca-app-pub-6874494293466161/5338519716",
+    "banner": "ca-app-pub-6874494293466161/9305684885",
+    "interstitial": "ca-app-pub-6874494293466161/9998810292",
+    "rewarded": "ca-app-pub-6874494293466161/4522373907"
   },
   "testUnits": {
     "appOpen": "ca-app-pub-3940256099942544/9257395921",
