@@ -1,5 +1,6 @@
 {
   "ads": "on",
+  "ad_network": "admob",
   "app_id": "ca-app-pub-1547180597887918~1638699466",
   "max_inter": 2,
   "inter_window_minutes": 2,
@@ -14,5 +15,15 @@
   "app_open": {
     "enabled": "on",
     "ad_unit_id": "ca-app-pub-1547180597887918/4447966688"
+  },
+  "meta": {
+    "interstitial": {
+      "enabled": "on",
+      "placement_id": "2562767277504324_2562813414166377"
+    },
+    "native": {
+      "enabled": "on",
+      "placement_id": "2562767277504324_2563616957419356"
+    }
   }
 }
