@@ -1,6 +1,6 @@
 {
   "ads": "on",
-  "ad_network": "admob",
+  "ad_network": "meta",
   "app_id": "ca-app-pub-1547180597887918~1638699466",
   "max_inter": 2,
   "inter_window_minutes": 2,
