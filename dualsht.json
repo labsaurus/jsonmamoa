@@ -1,6 +1,6 @@
 {
   "ads": "on",
-  "ad_network": "meta",
+  "ad_network": "wortise",
   "app_id": "ca-app-pub-1547180597887918~1638699466",
   "max_inter": 2,
   "inter_window_minutes": 2,
@@ -24,6 +24,21 @@
     "native": {
       "enabled": "on",
       "placement_id": "2562767277504324_2563616957419356"
+    }
+  },
+  "wortise": {
+    "app_id": "6eb42fbb-ae88-497e-beb8-f862c5506474",
+    "interstitial": {
+      "enabled": "on",
+      "ad_unit_id": "87911845-1c77-416e-a790-f8fbfa242d81"
+    },
+    "native": {
+      "enabled": "on",
+      "ad_unit_id": "33615d36-7f9f-4fd5-b19d-1f536198e0ec"
+    },
+    "app_open": {
+      "enabled": "on",
+      "ad_unit_id": "45a2b743-fa31-4d3b-b176-c6f206692ce3"
     }
   }
 }
