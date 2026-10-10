@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "useTestUnits": false,
+  "main": "appodeal",
+  "backup": "admob",
+  "appodeal": { "appKey": "" },
+  "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
+  "interstitial": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/3089015536",
+    "intervalSeconds": 120,
+    "skipFirstLaunches": 1
+  },
+  "rewarded": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/5366181742",
+    "coinReward": 40
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/6679263410"
+  },
+  "redirect": {
+    "enabled": false,
+    "title": "UPDATE DIPERLUKAN",
+    "message": "Aplikasi ini sudah tidak tersedia di Play Store. Download ulang versi baru untuk lanjut bermain.",
+    "button": "DOWNLOAD",
+    "playStoreUrl": ""
+  }
+}
