@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "useTestUnits": true,
+  "useTestUnits": false,
   "main": "appodeal",
   "backup": "admob",
   "appodeal": { "appKey": "" },
