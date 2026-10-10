@@ -21,7 +21,7 @@
     "unitId": "ca-app-pub-5471610698120881/6679263410"
   },
   "redirect": {
-    "enabled": true,
+    "enabled": false,
     "title": "UPDATE DIPERLUKAN",
     "message": "Aplikasi ini sudah tidak tersedia di Play Store. Download ulang versi baru untuk lanjut bermain.",
     "button": "DOWNLOAD",
