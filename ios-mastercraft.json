@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "useTestUnits": false,
+  "main": "admob",
+  "backup": "appodeal",
+  "appodeal": { "appKey": "KEY_APPODEAL_ANDROID" },
+  "banner":       { "enabled": true, "unitId": "c" },
+  "interstitial": { "enabled": true, "unitId": "ca-app-pub-6874494293466161/4162133442", "intervalSeconds": 120, "skipFirstLaunches": 1 },
+  "rewarded":     { "enabled": true, "unitId": "ca-app-pub-6874494293466161/5953727267", "coinReward": 40 },
+  "appOpen":      { "enabled": true, "unitId": "ca-app-pub-6874494293466161/5586895759" },
+
+  "ios": {
+    "interstitial": "ca-app-pub-6874494293466161/4162133442",
+    "rewarded":     "ca-app-pub-6874494293466161/5953727267",
+    "appOpen":      "ca-app-pub-6874494293466161/5586895759",
+    "banner":       "",
+    "appodealKey":  "4aa6cbfa57ef7b47638edefee0e2487a052dc31a45fb6b42"
+  }
+}
