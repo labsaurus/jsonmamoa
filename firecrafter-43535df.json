@@ -3,24 +3,24 @@
   "useTestUnits": false,
   "main": "admob",
   "backup": "appodeal",
-  "appodeal": { "appKey": "" },
+  "appodeal": { "appKey": "76fde15f02a5a70bb0bd6dfa57771072107a82552add5753" },
   "aiChat": { "enabled": true, "model": "qwen/qwen3.7-flash" },
   "vipUpsell": { "enabled": true, "chance": 0.25, "minAds": 3, "cooldownHours": 24, "maxDeclines": 3, "restDays": 3 },
-  "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
+  "banner": { "enabled": false, "unitId": "" },
   "interstitial": {
     "enabled": true,
-    "unitId": "ca-app-pub-5471610698120881/3089015536",
+    "unitId": "ca-app-pub-6874494293466161/1381938738",
     "intervalSeconds": 120,
     "skipFirstLaunches": 1
   },
   "rewarded": {
     "enabled": true,
-    "unitId": "ca-app-pub-5471610698120881/5366181742",
+    "unitId": "ca-app-pub-6874494293466161/9068857063",
     "coinReward": 40
   },
   "appOpen": {
     "enabled": true,
-    "unitId": "ca-app-pub-5471610698120881/6679263410"
+    "unitId": "ca-app-pub-6874494293466161/1594912915"
   },
   "ios": {
     "banner": "",
