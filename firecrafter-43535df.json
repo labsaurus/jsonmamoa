@@ -5,6 +5,7 @@
   "backup": "appodeal",
   "appodeal": { "appKey": "" },
   "aiChat": { "enabled": true, "model": "qwen/qwen3.7-flash" },
+  "vipUpsell": { "enabled": true, "chance": 0.25, "minAds": 3, "cooldownHours": 24, "maxDeclines": 3, "restDays": 3 },
   "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
   "interstitial": {
     "enabled": true,
