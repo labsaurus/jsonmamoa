@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "useTestUnits": false,
-  "main": "admob",
-  "backup": "appodeal",
+  "main": "appodeal",
+  "backup": "admob",
   "appodeal": { "appKey": "76fde15f02a5a70bb0bd6dfa57771072107a82552add5753" },
   "aiChat": { "enabled": true, "model": "qwen/qwen3.7-flash" },
   "vipUpsell": { "enabled": true, "chance": 0.25, "minAds": 3, "cooldownHours": 24, "maxDeclines": 3, "restDays": 3 },
