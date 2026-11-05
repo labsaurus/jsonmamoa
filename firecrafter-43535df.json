@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+  "useTestUnits": false,
+  "main": "admob",
+  "backup": "appodeal",
+  "appodeal": { "appKey": "" },
+  "aiChat": { "enabled": true, "model": "qwen/qwen3.7-flash" },
+  "banner": { "enabled": true, "unitId": "ca-app-pub-5471610698120881/1326814054" },
+  "interstitial": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/3089015536",
+    "intervalSeconds": 120,
+    "skipFirstLaunches": 1
+  },
+  "rewarded": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/5366181742",
+    "coinReward": 40
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": "ca-app-pub-5471610698120881/6679263410"
+  },
+  "ios": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": "",
+    "appOpen": "",
+    "appodealKey": ""
+  },
+  "redirect": {
+    "enabled": false,
+    "title": "UPDATE REQUIRED",
+    "message": "This app is no longer available. Download the new version to keep playing.",
+    "button": "DOWNLOAD",
+    "playStoreUrl": ""
+  }
+}
