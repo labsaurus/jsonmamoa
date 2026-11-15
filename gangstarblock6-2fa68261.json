@@ -1,0 +1,39 @@
+{
+  "enabled": true,
+  "useTestUnits": true,
+  "main": "admob",
+  "backup": "appodeal",
+  "appodeal": { "appKey": "" },
+  "aiChat": { "enabled": false, "model": "" },
+  "vipUpsell": { "enabled": false },
+  "banner": { "enabled": false, "unitId": "" },
+  "interstitial": {
+    "enabled": true,
+    "unitId": "",
+    "intervalSeconds": 150,
+    "skipFirstLaunches": 1
+  },
+  "rewarded": {
+    "enabled": true,
+    "unitId": "",
+    "coinReward": 50
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": ""
+  },
+  "ios": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": "",
+    "appOpen": "",
+    "appodealKey": ""
+  },
+  "redirect": {
+    "enabled": false,
+    "title": "UPDATE REQUIRED",
+    "message": "A new version of the game is out. Update to keep playing.",
+    "button": "UPDATE",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gangstarblock6.game"
+  }
+}
