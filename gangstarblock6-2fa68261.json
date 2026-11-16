@@ -1,26 +1,36 @@
 {
   "enabled": true,
-  "useTestUnits": true,
+  "useTestUnits": false,
   "main": "admob",
   "backup": "appodeal",
-  "appodeal": { "appKey": "" },
-  "aiChat": { "enabled": false, "model": "" },
-  "vipUpsell": { "enabled": false },
-  "banner": { "enabled": false, "unitId": "" },
+  "appodeal": {
+    "appKey": "dbc68937c08d827c49615db94748647a32f69f471f801bb9"
+  },
+  "aiChat": {
+    "enabled": false,
+    "model": ""
+  },
+  "vipUpsell": {
+    "enabled": false
+  },
+  "banner": {
+    "enabled": false,
+    "unitId": ""
+  },
   "interstitial": {
     "enabled": true,
-    "unitId": "",
+    "unitId": "ca-app-pub-6874494293466161/8981182995",
     "intervalSeconds": 150,
     "skipFirstLaunches": 1
   },
   "rewarded": {
     "enabled": true,
-    "unitId": "",
+    "unitId": "ca-app-pub-6874494293466161/5790098786",
     "coinReward": 50
   },
   "appOpen": {
     "enabled": true,
-    "unitId": ""
+    "unitId": "ca-app-pub-6874494293466161/6650533127"
   },
   "ios": {
     "banner": "",
