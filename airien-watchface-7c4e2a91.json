@@ -1,0 +1,39 @@
+{
+  "enabled": true,
+  "useTestUnits": false,
+  "main": "admob",
+  "interstitial": {
+    "enabled": true,
+    "unitId": "",
+    "intervalSeconds": 150,
+    "skipFirstLaunches": 1,
+    "minActions": 2
+  },
+  "appOpen": {
+    "enabled": true,
+    "unitId": "",
+    "skipFirstLaunches": 1,
+    "minBackgroundSeconds": 30,
+    "cooldownSeconds": 240
+  },
+  "native": {
+    "enabled": false,
+    "unitId": "",
+    "refreshSeconds": 120
+  },
+  "redirect": {
+    "enabled": false,
+    "title": "UPDATE REQUIRED",
+    "message": "A new version of Airien is out. Update to keep designing.",
+    "button": "UPDATE",
+    "playStoreUrl": ""
+  },
+  "ai": {
+    "imageModels": [
+      "meta/muse-image",
+      "black-forest-labs/flux-3-image-klein",
+      "recraft/recraft-v4.1-flash",
+      "google/gemini-3.1-flash-lite-image"
+    ]
+  }
+}
