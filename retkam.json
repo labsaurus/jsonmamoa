@@ -11,10 +11,10 @@
   "open_ad_warm_interval_seconds": 120,
   "skip_open_ad_first_launch": true,
   "ad_units": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "open": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "banner": "ca-app-pub-3940256099942544/9214589741",
-    "native": "ca-app-pub-3940256099942544/2247696110"
+    "app_id": "ca-app-pub-6874494293466161~5928821274",
+    "open": "ca-app-pub-6874494293466161/7050331255",
+    "interstitial": "ca-app-pub-6874494293466161/8746556301",
+    "banner": "ca-app-pub-6874494293466161/1059637971",
+    "native": "ca-app-pub-6874494293466161/8363412922"
   }
 }
